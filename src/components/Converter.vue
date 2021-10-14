@@ -48,7 +48,7 @@ export default {
     },
     methods: {
         getCurrency: async function(){
-            const currency = await axios.get('http://data.fixer.io/api/latest?access_key=504ec486f332e8835e885163c0fd44f3')
+            const currency = await axios.get('https://currency-apit.herokuapp.com/rates')
             this.currencies.EUR = currency.data.rates.EUR
             this.currencies.USD = currency.data.rates.USD
             this.currencies.TRY = currency.data.rates.TRY
