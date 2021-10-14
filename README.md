@@ -1,5 +1,7 @@
 # currency-converter
-
+Currreny-Exchange Project whit Vue
+Link to Project:
+https://currency-converter-botashew.herokuapp.com/
 ## Project setup
 ```
 npm install
