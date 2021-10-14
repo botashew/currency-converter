@@ -4,6 +4,8 @@ Currreny-Exchange Project whith Vue
 Link to Project:
 
 https://currency-converter-botashew.herokuapp.com/
+
+(Interface in Russian)
 ## Project setup
 ```
 npm install
