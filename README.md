@@ -5,7 +5,7 @@ Link to Project:
 
 https://currency-converter-botashew.herokuapp.com/
 
-(Interface in Russian)
+(Interface in Russian Language)
 ## Project setup
 ```
 npm install
